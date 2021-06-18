@@ -18,12 +18,22 @@ This approach can be efficacious as we will be able to predict the cause at init
 
 TECHNOLOGY
 
-Cloud Foundary:
-The premier industry standard Platform-as-a-Service (PaaS), that ensures the fastest, easiest, and most reliable deployment of cloud-native applications. 
-Cloud Foundry ensures that the build and deploy aspects of coding remain carefully coordinated with any attached services — resulting in quick, consistent and reliable iterating of applications.
-Working of cloud foundary with IBM-
-For a web app, We  must ensure that information about the runtime and framework is communicated to IBM Cloud,
-So that ,IBM Cloud can set up the appropriate execution environment to run the app.
+IBM CLOUD:
+
+It  is a set of cloud computing services for business offered by the information technology company IBM. It combines platform as a service (PaaS) with infrastructure as a service (IaaS).It offers the most open and secure public cloud for business, a next-generation hybrid multi cloud platform, advanced data and AI capabilities, and deep enterprise expertise.
+
+services offered by ibm cloud-
+Compute,Containers,AI,Storage,Database,Network and security.
+
+
+IBM Cloud Machine learning:
+
+Watson Machine Learning is a service on IBM Cloud with features for training and deploying machine learning models and neural networks. 
+Watson Machine Learning enables you to build, train, deploy, and manage machine learning and deep learning models.
+Watson Machine Learning supports popular frameworks, including: TensorFlow, Caffe, PyTorch, and Keras to build and deploy models.
+Dynamically retrain models with continuous learning.
+Bring any projects into production, including open source, third-party and IBM tools.
+
 
 Django:
 It is a Python-based free and open-source web framework that follows the model–template–views (MTV) architectural pattern.
