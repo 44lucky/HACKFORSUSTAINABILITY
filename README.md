@@ -5,6 +5,7 @@ CONTENTS:
    TECHNOLOGY
    DATASET
    FUTURE USAGE
+   WHY WE CHOOSE WEB SERVICE AS A SOLUTION ?
    
 PROBLEM STATEMENT   
 Problem:- 
@@ -52,11 +53,21 @@ Training accuracy of a model is 0.9696.
 Validation accuracy of a model is 0.9633.
 
 FUTURE USAGE
+
 As we know 85% crop disease are caused by fungus,bacteria , virus etc. and this is one of the main cause for the unavailability of healthy food or hunger.
 As we know that technology plays a great role in this era, so we had technologies which can be a solution to our problem , Deep Convolutional Neural Networks(DCNN) has been successfully applied in various fields, we had also tried to eradicate the problem with the usage of this technology. 
 This technology has freshly moved in the domain of Just-In-Time crop disease detection and our aim is to develop an AI based crop disease detector using DCNN .
 Through this farmers will be able to detect the problem at earlier stages and will get proper solution and suggestion.
 In this way we will be able to produce healthy crop and can serve our people with healthy food , a step towards eradicating hunger.  
+
+WHY WE CHOOSE WEB SERVICE AS A SOLUTION ?
+Social media offers unprecedented access to cultivate relationships with customers, one at a time. For those who seek to build sustainable brands, social media should never take the place of the website as the ultimate destination of the brand.
+
+66 percent use social media to learn about products and services.
+Orchestrating Efforts Across Multiple Platforms is Easier When Pointing to One Destination: the Website.
+
+Social media has become a vital aspect of an integrated marketing strategy.
+
 
 
 
