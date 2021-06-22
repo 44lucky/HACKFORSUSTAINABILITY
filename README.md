@@ -1,7 +1,7 @@
 # HACKFORSUSTAINABILITY
 
 ## YOUTUBE LINK :- https://youtu.be/T8ioE7U_WgM
-
+## PPT LINK :- https://docs.google.com/presentation/d/1Y0LPr-e5AmsAOl7l8H5N1QEmXRlubCC8aYS2_Abefg4/edit?usp=sharing
 ## CONTENTS:
    ## PROBLEM STATEMENT
    ## TECHNOLOGY
